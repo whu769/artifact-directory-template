@@ -1,6 +1,7 @@
 {
     "this-repository": "https://github.com/whu769/artifact-directory-template",
     "project-repository": "https://github.com/mxndyxu/DSC180B-Capstone-Search",
+    "dockerhub-repository": "https://www.github.com/ucsd-ets/datahub-base-notebook",
     "project-website-url": "https://mxndyxu.github.io/DSC180B-Capstone-Search/",
     "project-website-code": "https://github.com/mxndyxu/DSC180B-Capstone-Search"
 }
